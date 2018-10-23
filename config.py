@@ -1,0 +1,5 @@
+username = "WeTestin"
+password = "ChaseOhio123"
+client_id = "IIji8RYEB_00fg"
+client_secret = "L-9vAITlDDBISCbg6OrrOO-ViUE"
+subreddit = "teenagers"
